@@ -12,9 +12,12 @@
   "dependencies": {
     "axios": "^0.19.2",
     "prop-types": "^15.7.2",
-    "react": "16.11.0",
-    "react-native": "0.62.0",
+    "react": "16.13.1",
+    "react-native": "0.62.1",
     "react-native-gesture-handler": "^1.6.1",
+    "react-native-qrcode": "wanxsb/react-native-qrcode#6c545b2",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-webview": "^9.0.2",
     "react-navigation": "^4.3.7",
     "reactotron-react-native": "^5.0.0",
     "styled-components": "^5.0.1"
@@ -33,9 +36,9 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-native": "^3.8.1",
-    "jest": "^25.2.6",
+    "jest": "^25.2.7",
     "metro-react-native-babel-preset": "^0.59.0",
-    "react-test-renderer": "16.11.0"
+    "react-test-renderer": "16.13.1"
   },
   "jest": {
     "preset": "react-native"
